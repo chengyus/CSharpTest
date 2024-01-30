@@ -1,0 +1,19 @@
+using UnrealSharp.Engine;
+using UnrealSharp.Attributes;
+using UnrealSharp.Interop;
+using System.DoubleNumerics;
+using System.Runtime;
+using System.Runtime.InteropServices;
+
+namespace UnrealSharp.Engine;
+
+[UEnum]
+public enum EPerQualityLevels : byte
+{
+    Low=0,
+    Medium=1,
+    High=2,
+    Epic=3,
+    Cinematic=4,
+    Num=5,
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "54Ql0NScd3kQrdQ+XLOqfzsIv/rW38+J4KF6iU/u2icSyN6sDAAkFzjCO/F9SwvsXX/2Ji5llLy/KNzFpZ3vmg==",
+  "success": true,
+  "projectFilePath": "E:\\UE5_Projects\\CSharpTest\\Plugins\\UnrealSharp\\Managed\\UnrealSharpPrograms\\UnrealSharpWeaver\\UnrealSharpWeaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsung\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\jsung\\.nuget\\packages\\mono.cecil\\0.11.5\\mono.cecil.0.11.5.nupkg.sha512",
+    "C:\\Users\\jsung\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

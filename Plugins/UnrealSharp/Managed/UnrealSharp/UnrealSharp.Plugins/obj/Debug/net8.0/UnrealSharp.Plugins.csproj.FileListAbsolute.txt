@@ -1,0 +1,13 @@
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharp.Plugins.deps.json
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharp.Plugins.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharp.Plugins.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.csproj.AssemblyReference.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.AssemblyInfoInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.AssemblyInfo.cs
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.csproj.CoreCompileInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.csproj.CopyComplete
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\refint\UnrealSharp.Plugins.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\UnrealSharp.Plugins.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.Plugins\obj\Debug\net8.0\ref\UnrealSharp.Plugins.dll

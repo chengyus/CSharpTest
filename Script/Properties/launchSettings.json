@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "UnrealSharp": {
+      "commandName": "Executable",
+      "executablePath": "E:/UE_5.3/Engine/Binaries\\Win64\\UnrealEditor.exe",
+      "commandLineArgs": "\"E:\\UE5_Projects\\CSharpTest\\CSharpTest.uproject\""
+    }
+  }
+}

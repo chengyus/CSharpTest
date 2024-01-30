@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnrealSharp">
+      <HintPath>..\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharp.dll</HintPath>
+    </Reference>
+    <Compile Include="obj/generated/**/*.cs" />
+  </ItemGroup>
+</Project>

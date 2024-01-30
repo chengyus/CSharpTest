@@ -1,0 +1,15 @@
+E:\UE5_Projects\CSharpTest\Script\bin\Debug\net8.0\ManagedCSharpTest.deps.json
+E:\UE5_Projects\CSharpTest\Script\bin\Debug\net8.0\ManagedCSharpTest.dll
+E:\UE5_Projects\CSharpTest\Script\bin\Debug\net8.0\ManagedCSharpTest.pdb
+E:\UE5_Projects\CSharpTest\Script\bin\Debug\net8.0\UnrealSharp.dll
+E:\UE5_Projects\CSharpTest\Script\bin\Debug\net8.0\UnrealSharp.pdb
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.csproj.AssemblyReference.cache
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.AssemblyInfoInputs.cache
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.AssemblyInfo.cs
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.csproj.CoreCompileInputs.cache
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.csproj.CopyComplete
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.dll
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\refint\ManagedCSharpTest.dll
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ManagedCSharpTest.pdb
+E:\UE5_Projects\CSharpTest\Script\obj\Debug\net8.0\ref\ManagedCSharpTest.dll

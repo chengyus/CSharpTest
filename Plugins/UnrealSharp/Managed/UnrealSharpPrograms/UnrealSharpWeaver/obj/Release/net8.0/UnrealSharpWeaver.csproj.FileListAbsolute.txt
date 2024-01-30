@@ -1,0 +1,16 @@
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpWeaver.exe
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpWeaver.deps.json
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpWeaver.runtimeconfig.json
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpWeaver.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpWeaver.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.csproj.AssemblyReference.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.GeneratedMSBuildEditorConfig.editorconfig
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.AssemblyInfoInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.AssemblyInfo.cs
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.csproj.CoreCompileInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.csproj.CopyComplete
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\refint\UnrealSharpWeaver.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\UnrealSharpWeaver.genruntimeconfig.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpWeaver\obj\Release\net8.0\ref\UnrealSharpWeaver.dll

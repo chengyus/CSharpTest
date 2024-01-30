@@ -1,0 +1,16 @@
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpBuildTool.exe
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpBuildTool.deps.json
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpBuildTool.runtimeconfig.json
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpBuildTool.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\net8.0\UnrealSharpBuildTool.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.csproj.AssemblyReference.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.GeneratedMSBuildEditorConfig.editorconfig
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.AssemblyInfoInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.AssemblyInfo.cs
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.csproj.CoreCompileInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.csproj.CopyComplete
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\refint\UnrealSharpBuildTool.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\UnrealSharpBuildTool.genruntimeconfig.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharpPrograms\UnrealSharpBuildTool\obj\Release\net8.0\ref\UnrealSharpBuildTool.dll

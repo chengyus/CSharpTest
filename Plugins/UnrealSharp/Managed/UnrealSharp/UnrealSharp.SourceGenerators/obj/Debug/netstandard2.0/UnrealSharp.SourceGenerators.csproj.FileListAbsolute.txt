@@ -1,0 +1,10 @@
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\netstandard2.0\UnrealSharp.SourceGenerators.deps.json
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\netstandard2.0\UnrealSharp.SourceGenerators.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Binaries\DotNet\netstandard2.0\UnrealSharp.SourceGenerators.pdb
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.csproj.AssemblyReference.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.GeneratedMSBuildEditorConfig.editorconfig
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.AssemblyInfoInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.AssemblyInfo.cs
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.csproj.CoreCompileInputs.cache
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.dll
+E:\UE5_Projects\CSharpTest\Plugins\UnrealSharp\Managed\UnrealSharp\UnrealSharp.SourceGenerators\obj\Debug\netstandard2.0\UnrealSharp.SourceGenerators.pdb
